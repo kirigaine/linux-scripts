@@ -9,10 +9,13 @@ Generic repository for scripts convenient for setting up my servers and other th
 
 ## Usage
 
-A. Clone the repository
-	1a. Run the script
+A1.) Clone the repository
+A2.) ```chmod +x script.sh```
+A3.) Run desired script
 
-B. Copy script to clipboard and paste into terminal. Run.
+## Feedback
+
+I would love any issues to be opened for my scripts so I may learn from my mistakes and improve upon my work.
 
 # Disclaimer
 
